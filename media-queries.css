@@ -5,7 +5,7 @@
 	}
 
 	.header{
-		width: 345px;
+		width: 335px;
 	}
 
 	.about li{
@@ -30,7 +30,7 @@
 	}
 
 	footer{
-		width: 380px;
+		width: 335px;
 		display: flex;
 		flex-direction: column;
 	}
@@ -39,7 +39,10 @@
 		width: 250px;
 	}
 	.img1{
-		margin-left: 50px;
+		margin-left: 30px;
+	}
+	.img2, .img3{
+		margin-left: 30px;
 	}
 }
 
