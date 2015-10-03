@@ -1,0 +1,52 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+section{
+	margin-bottom: 30px;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 40px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+
+.title-logo{
+	margin-top: 20px;
+	border-radius: 50%;
+	width: 100px;
+}
+hr{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+h4{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 1.5em;
+}
+
+img{
+	border: 2px solid #BCBBBB;
+}
+
+.col-md-4{
+	margin-bottom: 20px;
+}
+
+footer{
+	border: 2px solid #747704;
+	padding: 20px 0;
+}
+
+footer p{
+	text-align: center;
+	color: #777;
+}
